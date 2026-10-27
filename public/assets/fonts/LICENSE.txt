@@ -1,0 +1,9 @@
+Nunito and Fraunces
+Copyright 2014 The Nunito Project Authors
+Copyright 2020 The Fraunces Project Authors
+License: SIL Open Font License 1.1
+https://scripts.sil.org/OFL
+
+Files were obtained from the Fontsource distribution of Google Fonts
+(cdn.jsdelivr.net/fontsource) and are bundled locally with this game.
+No runtime font CDN is required.

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tiny Worlds">
+  <rect width="64" height="64" rx="14" fill="#101d25"/>
+  <ellipse cx="32" cy="34" rx="18" ry="7" fill="#4c9b68"/>
+  <path d="M18 34c2 8 8 14 14 16 6-2 12-8 14-16" fill="#7a6b5b"/>
+  <circle cx="26" cy="28" r="5" fill="#2f6d49"/>
+  <circle cx="36" cy="26" r="6" fill="#254a42"/>
+  <path d="M32 14l5 9-5 9-5-9z" fill="#6cebff"/>
+</svg>
